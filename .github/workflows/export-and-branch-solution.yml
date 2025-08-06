@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://org7926a1eb.crm.dynamics.com/'
+  ENVIRONMENT_URL: 'https://org26edcbb3.crm.dynamics.com/'
   CLIENT_ID: '80f97804-8709-440d-a7e0-cc24a4648c10'
   TENANT_ID: 'b98ceac7-ae11-4321-b618-d6e14def90a2'
 permissions:
